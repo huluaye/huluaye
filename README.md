@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayenew Huluka Debelo
 - 👀 I’m interested in Software development projects
-- 🌱 I’m currently learning Software Engineering Programe
-- 💞️ I’m looking to collaborate on Web development
-- 📫 Email me@huluaye@gmail.com
+- 🌱 I’m currently working at Premier Switch Solutions S.C(Financial Company)
+- 💞️ I’m working on Software development projects.
+- 📫 Email me@huluaye@gmail.com | ayenew.huluka@pss-ethiopia.com
 
 <!---
 huluaye/huluaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
